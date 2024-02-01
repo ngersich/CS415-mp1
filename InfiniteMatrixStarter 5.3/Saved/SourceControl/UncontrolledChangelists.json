@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/WB_HUD.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material_002.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material_006.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material_008.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material_021.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Cube_009.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Healthpack.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/02_-_Default.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/03_-_Default.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/07_-_Default.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/08_-_Default.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/09_-_Default.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/13_-_Default.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Sphere001.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Cheep_Cheep.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/CameraShake.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/WB_HealthBar.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/noahgersich/Desktop/School/Junior/Spring 2024/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap"
+			]
+		}
+	]
+}
